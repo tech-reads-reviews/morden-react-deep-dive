@@ -24,12 +24,35 @@
    - commit 메시지 규칙 : [장] 이름
    - `git commit -m "[1장] OOO"`
 
-## 주차별 학습 로드맵
+## 🧑‍💻 스터디원
 
-| 완료 | 챕터 | 주제                                         | 날짜       |
-| ---- | ---- | -------------------------------------------- | ---------- |
-|      | 1    | 리액트 개발을 위해 꼭 알아야 할 자바스크립트 | 2024/07/08 |
-|      | 2    | 리액트 핵심 요소 깊게 살펴보기               | 2024/07/16 |
-|      | 3    | 리액트 훅 깊게 살펴보기                      | 2024/07/23 |
-|      | 4    | 서버 사이드 렌더링                           | 2024/07/30 |
-|      | 5    | 8월 일정 조율 후 추가 예정                   | 2024/08~   |
+<table>
+  <tr height="120px">
+    <td align="center">
+      <a href="https://github.com/junny97"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/72855681?v=4"/></a>
+      <br />
+      <a href="https://github.com/junny97">윤서준</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/suminson97"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/126536402?v=4"/></a>
+      <br />
+      <a href="https://github.com/suminson97">손수민</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/d-charlie-kim"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74645799?v=4""/></a>
+      <br />
+      <a href="https://github.com/d-charlie-kim">찰리</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/snowkwon420"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/85488522?v=4""/></a>
+      <br />
+      <a href="https://github.com/snowkwon420">권순호</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/starcradle101"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/113353436?v=4""/></a>
+      <br />
+      <a href="https://github.com/starcradle101">강동훈(중도하차)</a>
+    </td>
+     
+  </tr>
+</table>
